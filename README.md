@@ -34,8 +34,9 @@ Data cleaning and type conversion · datetime indexing · time-series resampling
 ```
 indoor-climate-analysis/
 ├── README.md
+└── data.xlsx                       # Sensor data (ground floor + first floor)
 ├── indoor_climate_analysis.ipynb   # Full analysis notebook with narrative and plots
-└── data.xlsx                        # Sensor data (ground floor + first floor)
+
 ```
 
 ## Tech
